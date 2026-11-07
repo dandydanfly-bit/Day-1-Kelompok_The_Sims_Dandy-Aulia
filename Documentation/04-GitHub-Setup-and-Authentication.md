@@ -1,0 +1,1 @@
+Agar komputer bisa terhubung ke GitHub dengan aman tanpa harus login berkali-kali, digunakan SSH Keys tipe Ed25519. Ini adalah algoritma tanda tangan kriptografi berbasis kurva eliptik yang didesain untuk menawarkan keamanan dan performa tinggi

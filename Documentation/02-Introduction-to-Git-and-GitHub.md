@@ -1,0 +1,1 @@
+Git diciptakan oleh Linus Torvalds pada tahun 2005 sebagai sebuah version control system. Alat ini dirancang secara khusus untuk mencatat setiap perubahan yang terjadi pada sebuah file sehingga kita bisa melacak siapa, kapan, dan apa saja yang sudah dirubah
